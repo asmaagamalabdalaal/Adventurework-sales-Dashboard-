@@ -13,9 +13,9 @@ The dashboard is designed to provide a **360° view of sales performance**, enab
 ## 2. Dashboard Preview
 
 ![AdventureWorks Sales Dashboard](https://github.com/asmaagamalabdalaal/Adventurework-sales-Dashboard-/blob/b58ef29b10ce639153c28517138a3ffca78d404f/Photos/Customer%20Detail.png)
-![AdventureWorks Sales Dashboard](Screenshot 2026-05-02 184505.png)
-![AdventureWorks Sales Dashboard](Screenshot 2026-05-02 184515.png)
-![AdventureWorks Sales Dashboard](Screenshot 2026-05-02 184524.png)
+![AdventureWorks Sales Dashboard](https://github.com/asmaagamalabdalaal/Adventurework-sales-Dashboard-/blob/8b047b1dd3f16ae92ab4d65953476d1a9dc5257b/Photos/Exec%20Dashboard.png)
+![AdventureWorks Sales Dashboard](https://github.com/asmaagamalabdalaal/Adventurework-sales-Dashboard-/blob/8b047b1dd3f16ae92ab4d65953476d1a9dc5257b/Photos/Map.png)
+![AdventureWorks Sales Dashboard](https://github.com/asmaagamalabdalaal/Adventurework-sales-Dashboard-/blob/8b047b1dd3f16ae92ab4d65953476d1a9dc5257b/Photos/Product%20Detail.png)
 
 
 ---
